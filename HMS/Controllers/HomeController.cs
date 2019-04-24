@@ -10,7 +10,8 @@ namespace HMS.Controllers
     {
         public ActionResult Index()
         {
-            
+
+            return View();
             ////djkcwdjkjdsjdasdjhgasjhdgasgj
         }
 
